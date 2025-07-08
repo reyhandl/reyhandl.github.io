@@ -1,0 +1,9 @@
+title: Your Name
+email: your@email.com
+description: >- # this means to ignore newlines until "."
+  Personal landing page for career and contact info.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima 
