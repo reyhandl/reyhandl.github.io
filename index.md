@@ -22,4 +22,8 @@ I'm passionate about technology and always eager to learn new things. This landi
 Feel free to reach out if you'd like to connect or collaborate on projects!
 
 - 📧 [Email](mailto:reyhandanilambaga@email.com)
-- 💻 [GitHub](https://github.com/reyhandl) 
+- 💻 [GitHub](https://github.com/reyhandl)
+
+## Explore More
+
+- ✍️ [Writing](/writing/) - Articles, thoughts, and insights 
