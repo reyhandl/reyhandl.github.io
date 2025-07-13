@@ -1,4 +1,4 @@
-title: Your Name
+title: Reyhan Dani Lambaga
 email: reyhandanilambaga@email.com
 description: >- # this means to ignore newlines until "."
   Personal landing page for career and contact info.
@@ -6,4 +6,29 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Build settings
-theme: minima 
+remote_theme: rhl-bthr/parchment
+
+# Author information
+author:
+  name: Reyhan Dani Lambaga
+  email: reyhandanilambaga@email.com
+  bio: Personal landing page for career and contact info.
+  location: ""
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/reyhandl"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:reyhandanilambaga@email.com"
+
+# Social media links
+social_links:
+  github: reyhandl
+  email: reyhandanilambaga@email.com
+
+# Parchment-style theme settings
+theme_settings:
+  layout: home
+  primary_color: "#2c3e50"
+  secondary_color: "#3498db" 

@@ -1,14 +1,25 @@
 ---
 layout: home
-title: "Your Name"
+title: "Reyhan Dani Lambaga"
 ---
 
-<div style="text-align:center; margin-top: 2rem;">
-  <h1>{{ site.title }}</h1>
-  <div style="color:#666; margin-bottom:1.5rem;">Your Profession or Tagline</div>
-  <p>Hello! I'm Reyhan Dani Lambaga, and this is my personal landing page (WIP). Connect with me:</p>
-  <div>
-    <a href="mailto:{{ site.email }}">Email</a> |
-    <a href="https://github.com/reyhandl" target="_blank">GitHub</a>
-  </div>
-</div> 
+# Welcome
+
+Hello! I'm **Reyhan Dani Lambaga**, and this is my personal landing page.
+
+## About Me
+
+I'm passionate about technology and always eager to learn new things. This landing page is currently a work in progress as I continue to build out my online presence.
+
+## Skills & Interests
+
+- **Technology**: Always exploring new tools and frameworks
+- **Learning**: Constantly expanding my knowledge base
+- **Collaboration**: Open to working on interesting projects
+
+## Get In Touch
+
+Feel free to reach out if you'd like to connect or collaborate on projects!
+
+- 📧 [Email](mailto:reyhandanilambaga@email.com)
+- 💻 [GitHub](https://github.com/reyhandl) 
