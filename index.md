@@ -7,6 +7,8 @@ title: "Reyhan Dani Lambaga"
 
 Hello! I'm **Reyhan Dani Lambaga**, and this is my personal landing page.
 
+![Profile Image](/assets/images/profile-sample.svg)
+
 ## About Me
 
 I'm passionate about technology and always eager to learn new things. This landing page is currently a work in progress as I continue to build out my online presence.
