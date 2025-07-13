@@ -1,27 +1,12 @@
 ---
-layout: home
-title: "Reyhan Dani Lambaga"
+title: "home"
 ---
 
 # Welcome
 
-Hello! I'm **Reyhan Dani Lambaga**, and this is my personal landing page.
-
-![Profile Image](/assets/images/profile-sample.svg)
-
-## About Me
-
-I'm passionate about technology and always eager to learn new things. This landing page is currently a work in progress as I continue to build out my online presence.
-
-## Skills & Interests
-
-- **Technology**: Always exploring new tools and frameworks
-- **Learning**: Constantly expanding my knowledge base
-- **Collaboration**: Open to working on interesting projects
+Hello! I write about ideas that trigger my mind. This landing page is currently a work in progress.
 
 ## Get In Touch
-
-Feel free to reach out if you'd like to connect or collaborate on projects!
 
 - 📧 [Email](mailto:reyhandanilambaga@email.com)
 - 💻 [GitHub](https://github.com/reyhandl)
