@@ -3,10 +3,14 @@ email: reyhandanilambaga@email.com
 description: >- # this means to ignore newlines until "."
   Personal landing page for career and contact info.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://reyhandl.github.io" # the base hostname & protocol for your site
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Author information
 author:
