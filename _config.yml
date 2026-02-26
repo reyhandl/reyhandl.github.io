@@ -1,22 +1,27 @@
 title: Reyhan Dani Lambaga
 email: reyhandanilambaga@email.com
 description: >- # this means to ignore newlines until "."
-  Personal landing page for career and contact info.
+  Academic homepage and research profile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reyhandl.github.io" # the base hostname & protocol for your site
+lang: en
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: alshedivat/al-folio
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-toc
+  - jekyll/scholar
+  - jekyll-socials
 
 # Author information
 author:
   name: Reyhan Dani Lambaga
   email: reyhandanilambaga@email.com
-  bio: Personal landing page for career and contact info.
+  bio: PhD student in Astrophysics at National Taiwan University, focusing on machine learning in cosmology.
   location: ""
   links:
     - label: "GitHub"
@@ -32,5 +37,7 @@ social_links:
   email: reyhandanilambaga@email.com
 
 header_pages:
-  - index.md
   - about.md
+  - publications.md
+  - cv.md
+  - writing.md

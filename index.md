@@ -1,12 +1,27 @@
 ---
-title: "home"
+layout: about
+title: Home
+permalink: /
+subtitle: PhD Student, Graduate Institute of Astrophysics, National Taiwan University
+profile:
+  align: right
+  image: profile.jpeg
+  image_circular: false
+  more_info: >
+    <p>Taipei, Taiwan</p>
+    <p>Machine Learning × Cosmology</p>
 ---
 
-# Welcome
+I am **Reyhan Dani Lambaga**, a PhD student at the Graduate Institute of Astrophysics, National Taiwan University (expected graduation: 2026).  
+My research focuses on applying machine learning methods to cosmology analysis.
 
-Hello! I write about ideas that trigger my mind. This landing page is currently a work in progress.
+## Research Interests
 
-## Get In Touch
+- Machine learning for cosmological data analysis
+- Statistical methods in astrophysics
 
-- 📧 [Email](mailto:reyhandanilambaga@email.com)
-- 💻 [GitHub](https://github.com/reyhandl)
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=WRHCS-IAAAAJ)
+- [GitHub](https://github.com/reyhandl)
+- [Email](mailto:reyhandanilambaga@email.com)

@@ -1,10 +1,14 @@
 ---
-title: "About Me"
+layout: page
+title: About
 permalink: /about/
+nav: true
+nav_order: 2
 ---
-## About Me
-My name is Reyhan Dani Lambaga. I am currently a PhD student at the Graduate Institute of Astrophysics, National Taiwan University, set to graduate by 2026. I am working on using Machine Learning techniques in Cosmology.
 
-## Publications
- 
- [Google Scholar](https://scholar.google.com/citations?hl=en&user=WRHCS-IAAAAJ)
+I am a PhD student at the Graduate Institute of Astrophysics, National Taiwan University, expected to graduate in 2026.
+My work applies machine learning techniques to cosmology problems.
+
+## Academic Links
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=WRHCS-IAAAAJ)
+- [GitHub](https://github.com/reyhandl)
